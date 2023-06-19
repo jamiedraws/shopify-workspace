@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Just mid Image banner",
+            "heading": "Big and bad Image banner",
             "heading_size": "h0"
           }
         },
@@ -134,7 +134,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "This headline is pretty neat.",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
